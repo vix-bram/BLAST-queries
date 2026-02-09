@@ -5,5 +5,5 @@ bash ./find_homologs.sh <query_sequence.fasta> <subject_sequence.fasta> <blast_o
 
 Make sure you install the required BLAST packages in your environment before running the above code. If you use conda, you can paste the below commands in your terminal to get the necessary packages:
 
-conda create -n <your blast env\. name> -c bioconda blast
+conda create -n <your blast env\. name> -c bioconda blast  
 conda activate <your blast env\. name>
